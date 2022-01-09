@@ -21,6 +21,7 @@
 
 Please cite the article if you refer to it, as follows:
 - Quoc Bao Diep, Thanh Cong Truong, Swagatam Das, and Ivan Zelinka. "Self-Organizing Migrating Algorithm with narrowing search space strategy for robot path planning." Applied Soft Computing (2021), doi: https://doi.org/10.1016/j.asoc.2021.108270
+
 If you encounter any problems in executing these codes, please do not hesitate to contact me, or leave a message in the Discussion:
 
 Quoc Bao Diep (diepquocbao@gmaill.com)
